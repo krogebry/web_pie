@@ -1,4 +1,4 @@
-bakery Cookbook
+web_pie Cookbook
 ===============
 
 Requirements
